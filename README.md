@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Anastasiia Hubar, a frontend engineer.
+
 <!--
 **asyahubar/asyahubar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
